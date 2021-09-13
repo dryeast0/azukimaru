@@ -2,6 +2,6 @@ h1{
     color: blue
 }
 
-fune{
-    background-image: url(https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg);
+.fune{
+    background-image: url("https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg");
 }
