@@ -1,12 +1,22 @@
 h1 {
     color: blue;
-    font-size: xx-large;
+    font-size: 80px;
+    height: 120px;
+    background-color: darkgoldenrod;
 }
 
 .fune {
     background-image: url("https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    height: 540px;
+    font-size: 50px;
+    margin: 20px;
+
 }
 
 .midasi {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
