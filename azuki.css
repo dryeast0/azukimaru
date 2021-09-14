@@ -5,18 +5,18 @@ header {
     width: 100%;
     padding: 0;
     margin: 0 auto;
-    text-align: center;
 }
 header .headline{
     font-size: 60px;
 }
 header .headline .azuki{
+    text-emphasis: none;;
     height: 120px;
 }
 .nav-list {
     text-align: center;
     padding: 10px 0;
-    margin: 0 auto;
+    margin: -7.5vw;
 }
 .nav-list-item {
     list-style: none;
