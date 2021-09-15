@@ -19,9 +19,10 @@ header .headline .azuki{
     margin: -7.5vw;
 }
 .nav-list-item {
+    font-size: 2vw;
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 0px;
 }
 
 h1 {
