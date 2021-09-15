@@ -1,7 +1,48 @@
-h1{
-    color: blue
+* {
+    margin:0; padding:0;
+}
+header {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+header .headline{
+    font-size: 60px;
+    height: 7.5vw;
+}
+header .headline .azuki{
+    text-emphasis: none;;
+    height: 7.5vw;
+}
+.nav-list {
+    text-align: center;
+    padding: 0.75vw 0;
+    margin-top:-5.5vw;
+}
+.nav-list-item {
+    position: relative;
+    font-size: 2vw;
+    list-style: none;
+    display: inline-block;
+    margin: 0 1vw;
 }
 
-.fune{
-    background-image: url("https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg");
+h1 {
+    color: blue;
+    height: 7.5vw;
+    background-color: darkgoldenrod;
 }
+
+.fune {
+    background-image: url("https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: 3vw;
+}
+
+.midasi {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
