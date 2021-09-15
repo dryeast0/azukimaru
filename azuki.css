@@ -16,13 +16,14 @@ header .headline .azuki{
 .nav-list {
     text-align: center;
     padding: 10px 0;
-    margin: -7.5vw;
+    margin-top: -7.5vw;
 }
 .nav-list-item {
+    position: relative;
     font-size: 2vw;
     list-style: none;
     display: inline-block;
-    margin: 0 0px;
+    margin: 0 0.5vw;
 }
 
 h1 {
@@ -35,9 +36,8 @@ h1 {
     background-image: url("https://tsurinews.jp/data/wp-content/uploads/2020/07/top-3-690x427.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;
     height: 100vh;
-    font-size: 50px;
+    font-size: 3vw;
 }
 
 .midasi {
