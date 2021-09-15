@@ -8,27 +8,28 @@ header {
 }
 header .headline{
     font-size: 60px;
+    height: 7.5vw;
 }
 header .headline .azuki{
     text-emphasis: none;;
-    height: 120px;
+    height: 7.5vw;
 }
 .nav-list {
     text-align: center;
     padding: 10px 0;
-    margin-top: -7.5vw;
+    margin-top:-5.5vw;
 }
 .nav-list-item {
     position: relative;
     font-size: 2vw;
     list-style: none;
     display: inline-block;
-    margin: 0 0.5vw;
+    margin: 0 1vw;
 }
 
 h1 {
     color: blue;
-    height: 120px;
+    height: 7.5vw;
     background-color: darkgoldenrod;
 }
 
